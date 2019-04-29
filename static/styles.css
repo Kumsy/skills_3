@@ -1,10 +1,33 @@
+body {
+    background-color: #fed6b7;
+    background-size: cover;
+    text-align: center;
+    color: #1B1919;
+}
+
+
 img {
     height: 200px;
     width: 200px;
+    
+
 }
 
 .melon-div {
     display: inline-block;
     padding: 10px;
     width: 205px;
+    border-width:1px;  
+    border-style:inset;;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: red;
+}
+
+.melon_pics {
+
+    border: 1px solid #021a40;
+    border-color: green;
 }
